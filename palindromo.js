@@ -5,10 +5,6 @@
 <script src="https://code.jquery.com/jquery-1.3.2.min.js"></script>
 </head>
 <body>
-<span>La fecha de hoy es : </span><br>
-<span>La hora actual es : </span><br>
-<div id='perro'></div><br>
-<span>La fecha es hoy  : <label>penelope<label></span>
 <body>
 </body>
 <script type="text/javascript">
